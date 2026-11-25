@@ -66,7 +66,7 @@
 
 Aard provides an MCP server and API delivering macroeconomic data and official statistics, enabling organisations to build AI workflows powered by real-world data. The platform offers macro data endpoints, pricing plans, and comprehensive documentation for developers to integrate grounded intelligence into large language models.
 
-**Areas:** AI · Data · Macroeconomics · API · MCP
+**Areas:** Artificial Intelligence · Data · Macroeconomics · MCP
 
 ## Aard on APIs.io
 
@@ -85,7 +85,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [Aard Ai Agentic Access](https://apis.io/agentic-access/aard-ai/aard-ai-agentic-access/)
+- [Aard Agentic Access](https://apis.io/agentic-access/aard-ai/aard-ai-agentic-access/)
 
 #### JSON Schema (6)
 
@@ -108,7 +108,7 @@ Linked-data contexts for the provider's vocabulary.
 
 OpenAPI overlays, including conversational phrasing for each operation.
 
-- [Aard Ai Openapi Overlay](https://apis.io/overlays/aard-ai/aard-ai-openapi-overlay/)
+- [Aard Openapi Overlay](https://apis.io/overlays/aard-ai/aard-ai-openapi-overlay/)
 
 #### Governance rules (1)
 
@@ -120,15 +120,15 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Aard Ai Authentication](https://apis.io/security/aard-ai/aard-ai-authentication/)
-- [Aard Ai Domain Security](https://apis.io/security/aard-ai/aard-ai-domain-security/)
-- [Aard Ai Vulnerability Disclosure](https://apis.io/security/aard-ai/aard-ai-vulnerability-disclosure/)
+- [Aard Authentication](https://apis.io/security/aard-ai/aard-ai-authentication/)
+- [Aard Domain Security](https://apis.io/security/aard-ai/aard-ai-domain-security/)
+- [Aard Vulnerability Disclosure](https://apis.io/security/aard-ai/aard-ai-vulnerability-disclosure/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Aard Ai Plans Pricing](https://apis.io/plans/aard-ai/aard-ai-plans-pricing/)
+- [Aard Plans Pricing](https://apis.io/plans/aard-ai/aard-ai-plans-pricing/)
 
 ## Where to find this API
 
@@ -146,25 +146,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 58.4** — strong · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 52.6** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 62.9 |
-| Contract governance | 79.1 |
-| Operational transparency | 15.8 |
+| Discoverability | 75.0 |
+| Contract quality | 66.0 |
+| Contract governance | 22.0 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 39.8 |
-| Access clarity | 73.2 |
+| Access clarity | 74.5 |
 
-**Agent readiness 59.7** — agent-ready (gated down from agent-native)
+**Agent readiness 53.0** — agent-ready (gated down from agent-native)
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
+| Agentic Access | derived (partial credit) |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | verified |
@@ -173,7 +173,7 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Event Surface Described | — |
 | Agent Skills | unknown |
 | Well Known Catalog | yes |
-| Consent Identity | — |
+| Consent Identity | signal |
 | Agent Card | — |
 | Dry Run Mode | — |
 | Delegated Identity | served (partial credit) |
@@ -182,6 +182,10 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | yes |
+| Markdown Negotiation | yes |
 
 **Regulatory alignment 28.2** — Horizontal (data, software, accessibility, platform)
 
